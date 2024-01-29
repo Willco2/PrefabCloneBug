@@ -1,0 +1,30 @@
+{
+  "RootObject": {
+    "Id": "2a039817-55f4-4957-a64e-6ec3a9d44e2e",
+    "Name": "cube",
+    "Enabled": true,
+    "Components": [
+      {
+        "__type": "ModelRenderer",
+        "BodyGroups": 18446744073709551615,
+        "MaterialGroup": null,
+        "MaterialOverride": null,
+        "Model": "models/dev/box.vmdl",
+        "RenderType": "On",
+        "Tint": "1,1,1,1"
+      },
+      {
+        "__type": "PrefabDebug",
+        "ModelRenderer": {
+          "_type": "component",
+          "go": "2a039817-55f4-4957-a64e-6ec3a9d44e2e",
+          "component_type": "ModelRenderer"
+        }
+      }
+    ]
+  },
+  "ShowInMenu": false,
+  "MenuPath": null,
+  "MenuIcon": null,
+  "__references": []
+}
